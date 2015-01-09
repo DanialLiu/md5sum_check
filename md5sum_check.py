@@ -1,5 +1,6 @@
 # create by Danial.Liu(bottlerun@gmail.com)
 # create at 2015-01-09
+# this is a python tool for auto check and generate md5sum file
 # no argument will work on current folder, and generate the zip file md5sum
 # first argument is the extension of the file you want to generate md5sum
 # second argument is the path work on
